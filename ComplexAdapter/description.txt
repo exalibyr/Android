@@ -1,0 +1,2 @@
+this projects represents list of items
+each item contains label and toggle button by which it can hide and show its label

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="cell_dimen">18dp</dimen>
+    <dimen name="inner_padding">1dp</dimen>
+    <dimen name="spacing_between_cells">2dp</dimen>
+    <dimen name="table_element_size">20dp</dimen>
+</resources>

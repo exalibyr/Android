@@ -1,0 +1,2 @@
+this project represents media player sample, with one song.
+it has seek bars for time and volume, pause and stop buttons

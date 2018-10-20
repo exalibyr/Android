@@ -1,0 +1,2 @@
+this project represents calculator which can calculate and convert from dec to other notations
+it also has funny picture as bonus:)

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="@dimen/cell_dimen" android:layout_height="@dimen/cell_dimen">
+
+    <TextView
+        android:id="@+id/cell"
+        android:layout_width="@dimen/cell_dimen"
+        android:layout_height="@dimen/cell_dimen"
+        android:background="@color/white"/>
+
+
+
+</FrameLayout>

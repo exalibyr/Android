@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="open_converter">open converter</string>
+    <string name="clear">clear</string>
+    <string name="sign_plus">+</string>
+    <string name="sign_equality">=</string>
+    <string name="figure_zero">0</string>
+    <string name="point">.</string>
+    <string name="sign_minus">-</string>
+    <string name="figure_three">3</string>
+    <string name="figure_two">2</string>
+    <string name="figure_one">1</string>
+    <string name="sign_multiplication">*</string>
+    <string name="figure_six">6</string>
+    <string name="figure_five">5</string>
+    <string name="figure_four">4</string>
+    <string name="sign_divide">/</string>
+    <string name="figure_nine">9</string>
+    <string name="figure_eight">8</string>
+    <string name="figure_seven">7</string>
+    <string name="return_button">return</string>
+</resources>

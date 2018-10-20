@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:id="@+id/base_layout"
+    android:background="@color/orange">
+
+    <GridView
+        android:padding="@dimen/inner_padding"
+        android:id="@+id/game_field"
+        android:background="@color/green"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:verticalSpacing="@dimen/spacing_between_cells"
+        android:horizontalSpacing="@dimen/spacing_between_cells"
+        android:stretchMode="none"
+        android:columnWidth="@dimen/cell_dimen"
+        android:isScrollContainer="false"/>
+
+    <LinearLayout
+        android:background="@color/orange"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ToggleButton
+            android:id="@+id/game_running_switch"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:textOn="stop game"
+            android:textOff="start game"
+            android:layout_weight="1"/>
+
+        <Button
+            android:id="@+id/one_step_button"
+            android:layout_height="wrap_content"
+            android:layout_width="0dp"
+            android:text="one step"
+            android:layout_weight="1"/>
+
+        <!--<Button-->
+            <!--android:id="@+id/test"-->
+            <!--android:layout_width="0dp"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_weight="1"-->
+            <!--android:text="test"/>-->
+
+        <!--<Button-->
+            <!--android:id="@+id/time"-->
+            <!--android:layout_width="0dp"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_weight="1"-->
+            <!--android:text="time"/>-->
+
+    </LinearLayout>
+
+    <!--<TextView-->
+        <!--android:id="@+id/out"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content" />-->
+
+</LinearLayout>

@@ -1,0 +1,1 @@
+this project represents httpUrlConnection and loading data from "https://developer.android.com/index.html"

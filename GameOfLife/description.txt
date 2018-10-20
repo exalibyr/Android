@@ -1,0 +1,3 @@
+This project represent Game of life
+For now, available options: clean cells, save/load cells configuration, unlimited and limited borders mods, one step animation and cycled animation.
+Also, it has own icons and style
